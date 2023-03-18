@@ -166,6 +166,4 @@ for name, model in mod :
     # Display the plot
     plt.show()
 
-############################################################################################################
-#      THE DOCUMENTATION AND ALL GRAPHS ARE SEPERATELY UPLOADED AS A PDF FILE (P1_REGRESSION)        #
-############################################################################################################
+#      THE DOCUMENTATION AND ALL GRAPHS ARE SEPERATELY UPLOADED AS A PDF FILE (P1_REGRESSION)        

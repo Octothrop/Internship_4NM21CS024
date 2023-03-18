@@ -7,6 +7,6 @@ Each folder consists of 4 files :<br>
 > <b>P(x) XXXXXXX</b> : this is a pdf version of the DOCUMENTATION XXXXXXXXXX.<br>
 <br>
 <h2> NOTE : </h2><br>
-The problem statements are available in the <a href = " ">README.md</a> file.<br>
+The problem statements are available in the <a href = "https://github.com/Octothrop/Delite_Internship_4NM024/blob/main/README.md">README.md</a> file.<br>
 
 

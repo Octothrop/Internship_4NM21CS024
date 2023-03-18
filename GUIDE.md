@@ -1,23 +1,15 @@
-# FOLDER FILES :
+# GUIDE OF FILES 
 
-> <b>PROJECT 1 :</b>
-<ul><li><a href = "Internship_4NM21CS024/PROJECT_1 at main · Octothrop/Internship_4NM21CS024 (github.com)">All_Files</a></li>
-<li><a href = "https://github.com/Octothrop/Delite_Internship_4NM024/tree/main/PROJECT_1">All_Files</a></li>
-<li><a href = "https://github.com/Octothrop/Delite_Internship_4NM024/tree/main/PROJECT_1">All_Files</a></li>
-<li><a href = "https://github.com/Octothrop/Delite_Internship_4NM024/tree/main/PROJECT_1">All_Files</a></li>
-<li><a href = "https://github.com/Octothrop/Delite_Internship_4NM024/tree/main/PROJECT_1">All_Files</a></li></ul>
+> <b>PROBLEM STATEMENT : </b><a href = "https://github.com/Octothrop/Delite_Internship_4NM024/blob/main/README.md">README.md</a> file.<br>
 
-> <b>PROJECT 2 :</b><br>
-Text analytics: web scraping a news article and sentiment analysis. With the help of BeautifulSoup , gather information from a website and use the text data for sentiment analysis. Make use of NLTK and use any classifier to analyze the polarity of the data (Positive, Negative or Neutral).                                   Resource : https://monkeylearn.com/sentiment-analysis/
-<br>Files : <a href = "https://github.com/Octothrop/Delite_Internship_4NM024/tree/main/PROJECT_2">PROJECT_2A</a><br>
+> <b>PROJECT 1 :</b><br>                                                                                                                                                  1. <a href = "Internship_4NM21CS024/PROJECT_1 at main · Octothrop/Internship_4NM21CS024 (github.com)">Project Folder</a><br>                                              2. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/tree/main/PROJECT_1/OUTPUT_P1">Output Folder</a><br>                                                   3. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_1/Ananya_Pai_P1.py">Implementation .py</a><br>                                         4. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_1/DOCUMENTATION%20OF%20REGRESSION%20MODELS.docx">Documentation .docx</a><br>           5. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_1/P1_REGRESSION.pdf">Documentation .pdf</a><br>
 
-> <b>PROJECT 3 :</b><br>
-Cluster Analysis: Clustering Credit Card Users.                                                                                                                         Dataset : https://www.kaggle.com/arjunbhasin2013/ccdata/
-<br>Files : <a href = "https://github.com/Octothrop/Delite_Internship_4NM024/tree/main/PROJECT_3">PROJECT_3A</a>
+> <b>PROJECT 2 :</b><br>                                                                                                                                                  1. <a href = "Internship_4NM21CS024/PROJECT_2 at main · Octothrop/Internship_4NM21CS024 (github.com)">Project Folder</a><br>                                              2. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/tree/main/PROJECT_2/OUTPUT_P2">Output Folder</a><br>                                                   3. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_2/Ananya_Pai_P2.py">Implementation .py</a><br>                                         4. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_2/DOCUMENTATION%20OF%20SENTIMENTAL%20ANALYSIS.docx">Documentation .docx</a><br>       5. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_2/P2_SENTIMENTAL_ANALYSIS.pdf">Documentation .pdf</a><br>
+
+> <b>PROJECT 3 :</b><br>                                                                                                                                                  1. <a href = "Internship_4NM21CS024/PROJECT_3 at main · Octothrop/Internship_4NM21CS024 (github.com)">Project Folder</a><br>                                              2. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/tree/main/PROJECT_3/OUTPUT_P3">Output Folder</a><br>                                                   3. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_3/Ananya_Pai_P3.py">Implementation .py</a><br>                                         4. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_3/DOCUMENTATION%20OF%20CLUSTERING%20CREDIT%20CARD.docx">Documentation .docx</a><br>    5. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_3/P3_CLUSTER_ANALYSIS.pdf">Documentation .pdf</a><br>
 
 <br>
 <h2> NOTE : </h2><br>
-> The problem statements are available in the <a href = "https://github.com/Octothrop/Delite_Internship_4NM024/blob/main/README.md">README.md</a> file.<br>
 > <b>OUTPUT_P(x)</b> : This folder consists of all the graphs obtained from the project.<br>
 > <b>Ananya_Pai_P(x)</b> : This is a .py file consisting of implementation or code.<br>
 > <b>DOCUMENTATION XXXXXXXXXX</b> : This file contains a overview documentation of the project.<br>

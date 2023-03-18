@@ -11,3 +11,5 @@ Text analytics: web scraping a news article and sentiment analysis. With the hel
 > <b>PROJECT 3 :</b><br>
 Cluster Analysis: Clustering Credit Card Users.                                                                                                                         Dataset : https://www.kaggle.com/arjunbhasin2013/ccdata/
 <br>Files : <a href = "https://github.com/Octothrop/Internship_4NM21CS024/tree/main/PROJECT_3">PROJECT_3A</a>
+<br>
+Note that detail file guide is available @<a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/GUIDE.md">GUIDE.md</a> . 

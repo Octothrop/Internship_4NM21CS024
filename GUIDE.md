@@ -8,10 +8,6 @@
 
 > <b>PROJECT 3 :</b><br>                                                                                                                                                  1. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/tree/main/PROJECT_3">Project Folder</a><br>                                                            2. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/tree/main/PROJECT_3/OUTPUT_P3">Output Folder</a><br>                                                   3. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_3/Ananya_Pai_P3.py">Implementation .py</a><br>                                         4. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_3/DOCUMENTATION%20OF%20CLUSTERING%20CREDIT%20CARD.docx">Documentation .docx</a><br>    5. <a href = "https://github.com/Octothrop/Internship_4NM21CS024/blob/main/PROJECT_3/P3_CLUSTER_ANALYSIS.pdf">Documentation .pdf</a><br>
 
-<br>
-<h2> NOTE : </h2><br>
-> <b>OUTPUT_P(x)</b> : This folder consists of all the graphs obtained from the project.<br>
-> <b>Ananya_Pai_P(x)</b> : This is a .py file consisting of implementation or code.<br>
-> <b>DOCUMENTATION XXXXXXXXXX</b> : This file contains a overview documentation of the project.<br>
-> <b>P(x) XXXXXXX</b> : this is a pdf version of the DOCUMENTATION XXXXXXXXXX.<br>
+
+
 
